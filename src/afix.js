@@ -1,0 +1,1 @@
+const afix = (prefix) => { 	return `▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊chat wa:089690719275▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊}exports.afix = afix

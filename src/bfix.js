@@ -1,0 +1,1 @@
+const bfix = (prefix) => { 	return `▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊chat aja wa:089690719275▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊}exports.bfix = bfix

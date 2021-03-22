@@ -1,0 +1,1 @@
+const daftarmemberselebgram = (prefix) => { 	return `🧸Nama Instagram : @alpin_xploit?[bantu follow]`}exports.daftarmemberselebgram = daftarmemberselebgram
